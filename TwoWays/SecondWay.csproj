@@ -41,7 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseSessionDataStore.cs" />
-    <Compile Include="BaseSessionStoredService.cs" />
+    <Compile Include="BaseUseSessionStoredService.cs" />
     <Compile Include="CurrentMemberService.cs" />
     <Compile Include="HttpContextBasedSessionStore.cs" />
     <Compile Include="ICurrentMemberService.cs" />

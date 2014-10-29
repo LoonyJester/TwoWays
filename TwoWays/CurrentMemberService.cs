@@ -1,6 +1,6 @@
 ﻿namespace TwoWays
 {
-    public class CurrentMemberService: BaseSessionStoredService, ICurrentMemberService
+    public class CurrentMemberService: BaseUseSessionStoredService, ICurrentMemberService
     {
 
         private readonly IUsersRepo _repo;

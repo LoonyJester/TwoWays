@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoWays", "TwoWays\TwoWays.csproj", "{EEAC0784-CBF7-4D2A-A20B-009BF82ECF2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondWay", "TwoWays\SecondWay.csproj", "{EEAC0784-CBF7-4D2A-A20B-009BF82ECF2C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWay", "FirstWay\FirstWay.csproj", "{F929CF1E-814D-45F3-9363-18E6E498533E}"
 EndProject

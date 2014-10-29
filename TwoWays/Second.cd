@@ -8,16 +8,16 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="TwoWays.BaseSessionStoredService">
-    <Position X="3.5" Y="3.5" Width="2" />
+  <Class Name="TwoWays.BaseUseSessionStoredService">
+    <Position X="3.5" Y="3" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAAAAAIAIAAAAAAAAAACAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>BaseSessionStoredService.cs</FileName>
+      <FileName>BaseUseSessionStoredService.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="TwoWays.CurrentMemberService">
-    <Position X="3.5" Y="5.5" Width="2" />
+    <Position X="3.5" Y="5.5" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAIAAACAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>CurrentMemberService.cs</FileName>

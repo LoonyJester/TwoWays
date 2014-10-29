@@ -2,11 +2,11 @@
 
 namespace TwoWays
 {
-    public abstract class BaseSessionStoredService : IService
+    public abstract class BaseUseSessionStoredService : IService
     {
         protected readonly ISessionDataStore SesseionStore;
 
-        protected BaseSessionStoredService(ISessionDataStore sesseionStore)
+        protected BaseUseSessionStoredService(ISessionDataStore sesseionStore)
         {
             SesseionStore = sesseionStore;
         }
